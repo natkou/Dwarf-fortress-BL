@@ -1,0 +1,123 @@
+Please note that these components are the work of others in the community - I've just collected and configured them.  
+[spoiler=contents]
+
+Starter Pack Launcher / Configuration GUI ([url=http://www.bay12forums.com/smf/index.php?topic=140808]PyLNP v0.9[/url]) with mods tab
+
+[url=http://www.bay12games.com/dwarves/]Dwarf Fortress v0.40.24 (windows SDL)[/url]
+
+[url=http://www.bay12forums.com/smf/index.php?topic=139553]DFHack 40.24-r0[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=106497]Stonesense[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=138754]Text will be Text v5.41[/url] (with item overrides, clear text, and multilevel)
+   - TwbT-compatible replacement plugins (resume, automaterial, mousequery)
+ - [url=https://github.com/lethosor/dfhack-scripts]Lethosor's scripts[/url] (adv-max-skills, embark-skills, load-screen, manager-quantity, settings-manager, title-version)
+ - [url=http://dffd.wimbli.com/file.php?id=10170]Mechanixm's stockpile settings[/url] for new stockpiles plugin
+ - [url=https://gist.github.com/Putnam3145/e7031588f4d9b24b9dda]burial.lua[/url]
+
+Utilities
+ - [url=http://www.bay12forums.com/smf/index.php?topic=35931]Quickfort 2.04[/url] with the [url=http://dwarffortresswiki.org/index.php/Quickfort_Community_Blueprints]community plans archive v2.2[/url], [url=http://redd.it/2qh7hs]etc[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=60287]soundSense 2014-1[/url] (soundpack not included)
+ - [url=http://www.bay12forums.com/smf/index.php?topic=128570]DF Story Maker 1.0[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=130030]DF Announcement Filter 1.1[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=138590]Picturefort 2.1[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=138366]Dorven Realms R1[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=122968]Dwarf Therapist v30.1.0[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=72702]Legends Viewer 1.13.24[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=57428]Perfect World 1.9[/url]
+ - [url=https://github.com/PeridexisErrant/LegendsExportsProcessor/releases]Legends Exports Processor v4.1[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=70700]Isoworld v2.1[/url]
+
+Graphics:
+ - ASCII (default)
+ - [url=http://www.bay12forums.com/smf/index.php?topic=105376]CLA[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=53180]Ironhand[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=137370]Mayday[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=137096]Phoebus[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=126934]Obsidian[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=129219]Spacefox[/url]
+    (via [url=https://github.com/fricy/DFgraphics]Fricy's patches[/url])
+
+Extras:  
+ - [url=https://github.com/PeridexisErrant/Scripts-for-the-Starter-Pack]Useful batch scripts[/url] including a pack updater
+ - [url=https://github.com/Lazy-Newb-Pack/LNP-shared-core/]Color schemes (including colorblind options), embark profiles, keybindings, and more![/url]
+[/spoiler]
+
+Mirrors and Checksums
+[spoiler=mirrors and checksums]
+Besides [url=http://dffd.bay12games.com/file.php?id=7622]the main download page on DFFD[/url], there's an archive of every pack ever on [url=https://www.dropbox.com/sh/74agv72ccbnqffi/C2-f5KyTUd]my Dropbox[/url] - don't go crazy as there is a bandwidth limit.  Salithus maintains a [url=http://dwarffortresswiki.org/index.php/User:Salithus]table of torrents here[/url].  Two maintains [url=http://bit.ly/1mcezz6]another mirror[/url].
+
+I publish checksums so you can be sure that what you unzipped is the file I zipped, easing any concerns about malware or corrupt downloads.  [url=http://download.cnet.com/MD5-Checker/3000-2092_4-10410639.html]MD5 Checker[/url] is simple and portable app that makes checking easy.  
+
+[table]
+[tr][td][b]Pack        |[/b][/td][td][b]  MD5 Checksum[/b][/td][/tr]
+[tr][td]40_24 r1[/td][td]unavailable[/td][/tr]
+[tr][td]40_23 r2[/td][td]EA2745C15261F8BDBF6E79B07CB7A5B0[/td][/tr]
+[tr][td]40_23 r1[/td][td]19700FCD3FEC50E646862A6F31A19BA6[/td][/tr]
+[tr][td]40_19 r3[/td][td]DE363849ACF2B5103D08538D60A19529[/td][/tr]
+[tr][td]40_19 r2[/td][td]643A29FE693BB4E9A7F480B7765838C4[/td][/tr]
+[tr][td]40_19 r1[/td][td]ECA2565BD3C1DF47BF950C7DCF576E7A[/td][/tr]
+[/table]
+[/spoiler]
+
+Changelog:  
+[spoiler=changelog]
+40_24 r1
+ - updated links for DFFD hostname migration
+ - QF tooltip warns of alt-key interception
+ - disabled seedwatch again; this time for good
+ - updated DF to v40.24; many bugfixes and probably the last before 40.01
+ - updated DFHack to 40.24-r0; some globals missing and reliant plugins will unload
+ - added new DT memory layout
+ - removed all mods due to raw changes and forthcoming merge logic upgrade
+ - updated TwbT to v5.41
+ - fixed Dorven Realms install; .dll files were missing
+ - updated graphics packs for 40.24
+
+40_23 r2
+ - reinstall phoebus graphics (launcher didn't copy tileset)
+ - update TwbT to v5.40; updates plugins and fixes crash
+ - updated PyLNP to v0.9; new mods tab!
+ - added a beginning selection of mods; please post suggestions
+ - now using reduced raws format
+
+40_23 r1
+ - updated Legends Viewer to v1.13.24; fixes rare crash
+ - added World Viewer 2.01; finally up-to-date for DF40.xx
+ - added soundsense script for more announcements
+ - improved bugfixes and performance tweaks config in dfhack tab
+ - updated position.lua; better location reporting
+ - updated keybindings for DF 40.22 (no changes for .23)
+ - updated Dwarf Fortress to v0.40.23; with job prioritisations, better digging, and bugfixes!
+ - updated graphics packs (DF fixed typos in raws)
+ - improved my prep script to avoid leaving some graphics out (again)
+ - added Nate-Enator's dining room blueprint
+ - added 24x24 ASCII default tileset
+ - updated Therapist memory layouts through to 40.23
+ - updated DFHack to 40.23-r1; lots and lots of improvements
+ - updated TwbT to v5.38; recent changes to mousequery not included
+
+40_19 r3
+ - updated Dwarf Therapist to v30.1.0; adds gelding etc
+ - fixed exportlegends bug; did not export detailed map
+ - old changelogs are now in ./LNP/About/history.txt instead of this file/post
+ - added DFHack script "burial", GUI option; auto-allow built coffins for burial
+ - fixed ASCII graphics
+ - added DejaVu-Mono font option
+ - added empty gamelog; some utilities freak out otherwise
+ - added DFHack script "position"; reports time in great detail
+
+40_19 r2
+ - re-added Mayday graphics (oops)
+ - reset default settings; engravings start obscured
+
+40_19 r1
+ - updated DF to v0.40.19
+ - updated DFHack to 40.19-r1; includes Stonesense
+ - updated graphics for changed raws
+ - updated all keybindings files
+ - updated TwbT to v5.36
+ - added stockpile settings plugin; load and save across games
+ - added settings pack per Mechanixm's stockpiles guide
+ - disabled seedwatch due to egregious output
+ 
+ All older changelogs are maintained in the pack, as ./LNP/About/history.txt
+[/spoiler]

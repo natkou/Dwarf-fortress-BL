@@ -1,0 +1,18 @@
+This starter pack bundles [i]Dwarf Fortress[/i] with the best community graphics packs, tools, and interface improvements already configured - so getting the best of everything only takes a single download and no fiddling.  [url=http://dffd.wimbli.com/file.php?id=7622]Get it here![/url]
+
+It's suitable for anyone - if you've never tried DF before, or played for years - because while I've set up all the included parts already, the core is as easily accessible to you:  you can add, remove, update, replace whatever you want to and customise the pack as much as you want.  The tools I've included make the game easier to get into, but avoid changing any of the fundamentals - there are no mods here.  [i]Dwarf Fortress[/i] can be confusing enough to play, but doesn't need to be hard to set up too.
+
+The pack has [url=http://www.bay12forums.com/smf/index.php?topic=126076]a thread on the Bay12 forums[/url] - use it for feedback, questions, suggestions, or anything else relevant.  [url=http://www.bay12forums.com/smf/index.php?topic=126076.msg4250424#msg4250424]The second post [/url] has a complete table of contents, a comprehensive changelog, and information on checksums and mirrors.  Salithus maintains a [url=http://dwarffortresswiki.org/index.php/User:Salithus]table of torrents here[/url].  The last pack for 34.11 [url=http://dffd.wimbli.com/file.php?id=8687]is archived and still available[/url] - but I recomend playing with the latest pack instead.  
+
+Due the the level of variation between platforms and the configuration involved, the DF Starter Pack is only for windows - but there are similar packs available [url=http://www.bay12forums.com/smf/index.php?topic=128960]for Mac[/url] and [url=http://dffd.wimbli.com/file.php?id=8936]for Linux[/url].  
+
+Lastly - Dwarf Fortress costs you nothing, because the developer gives it away and lives off donations (and [url=http://www.bay12forums.com/smf/index.php?topic=100851.msg5237823#msg5237823]allows redistribution[/url]!).  If you've got some money kicking around... consider a donation to say thanks, and help fund development for everyone.  
+[url=http://www.bay12games.com/support.html][img]http://www.bay12games.com/dwarves/imgs/support_large.png[/img][/url]
+If you want to say thanks to me, just post a nice message - but [url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8D3S922LW2AFJ]I do take money too[/url].  Note that the Starter Pack is totally free for everyone regardless, and that I'm not affiliated with Bay12 games but do have Toady's permission to take donations.
+
+[b]INSTRUCTIONS:[/b]
+1. [url=http://dffd.wimbli.com/file.php?id=7622]Download[/url] and unzip the folder
+    [i]It's a bundle of portable apps; there's no further installation procedure.[/i]
+    [i]The pack must be able to read/write files though - so don't put it in a "Program Files" folder.[/i]
+2. [Optional]:  upgrade from an earlier release by running the 'copy my data' script with both versions next to each other in a folder.  
+3. Don't panic if it seems graphics aren't working - menus and text are meant to use ascii tiles now.
