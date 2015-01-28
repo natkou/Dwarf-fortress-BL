@@ -1,0 +1,8 @@
+Note: Failed to read JSON from .\LNP\PyLNP.json, ignoring data - error details follow
+Traceback (most recent call last):
+  File "C:\Users\Michael Madsen\Documents\LazyNewbPack\python_lnp\build\lnp\out00-PYZ.pyz\core.json_config", line 32, in __init__
+  File "C:\Users\Michael Madsen\Documents\LazyNewbPack\python_lnp\build\lnp\out00-PYZ.pyz\json", line 290, in load
+  File "C:\Users\Michael Madsen\Documents\LazyNewbPack\python_lnp\build\lnp\out00-PYZ.pyz\json", line 351, in loads
+  File "C:\Users\Michael Madsen\Documents\LazyNewbPack\python_lnp\build\lnp\out00-PYZ.pyz\json.decoder", line 365, in decode
+  File "C:\Users\Michael Madsen\Documents\LazyNewbPack\python_lnp\build\lnp\out00-PYZ.pyz\json.decoder", line 381, in raw_decode
+ValueError: Expecting , delimiter: line 65 column 9 (char 3679)

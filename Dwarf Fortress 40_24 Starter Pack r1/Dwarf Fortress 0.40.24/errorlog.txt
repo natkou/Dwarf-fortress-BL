@@ -1,0 +1,3 @@
+path fail: dwarf,Dig,153,105,175 -> 151,101,175: Id #14497:Path Goal Dig:Station Mill Building at 149,108,175
+path fail: dwarf,Return Kill,141,124,175 -> 67,26,141: Id #14492:Path Goal Grab Kill:Station Mill Building at 160,108,174
+path fail: dwarf,Return Kill,65,63,176 -> 80,63,122: Id #14492:Path Goal Grab Kill:Station Mill Building at 160,108,174
