@@ -320,3 +320,15 @@ You have struck cobaltite!
 You have struck fire opal!
 Meng Luritducim has become a Bone Carver.
 Spring has arrived!
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Loaded region1, Eweathira (The Enchanted Planes) at coordinates (108,92)
+Loaded the fortress Nishast (Tradesabre), colonized by the group Stodir Atast (The Volcano of Braving) of the civilization Edanendok (The Stirred Attic).
+
+Spring has arrived on the calendar.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+Loaded region1, Eweathira (The Enchanted Planes) at coordinates (108,92)
+Loaded the fortress Nishast (Tradesabre), colonized by the group Stodir Atast (The Volcano of Braving) of the civilization Edanendok (The Stirred Attic).
+
